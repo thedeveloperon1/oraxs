@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": true
+  },
+  {
+    "id": 2,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": false
+  },
+   {
+    "id": 2,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": false
+  },
+   {
+    "id": 2,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": false
+  },
+   {
+    "id": 2,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": false
+  },
+   {
+    "id": 2,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": false
+  },
+   {
+    "id": 2,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": false
+  },
+   {
+    "id": 2,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": false
+  },
+   {
+    "id": 2,
+    "name": "Dr. Amelia Harper",
+    "email": "amelia.harper@example.com",
+    "role": "Admin",
+    "clinic": "Clinic A",
+    "status": false
+  },
+   {
+    "id": 2,
+    "name": "Harshnai",
+    "email": "aharshani.p@example.com",
+    "role": "Admin",
+    "clinic": "Clinic C",
+    "status": true
+  }
+]

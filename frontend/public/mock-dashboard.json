@@ -1,0 +1,59 @@
+{
+  "stats": [
+    { "value": "120", "label": "Total clinics" },
+    { "value": "540", "label": "Users" },
+    { "value": "15", "label": "Roles" },
+    { "value": "$12,000", "label": "Billing" }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Sophia Clark",
+      "email": "sophia.clark@example.com",
+      "role": "Admin",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Sophia Clark",
+      "email": "sophia.clark@example.com",
+      "role": "Admin",
+      "status": false
+    },
+    {
+      "id": 3,
+      "name": "Sophia Clark",
+      "email": "sophia.clark@example.com",
+      "role": "Admin",
+      "status": true
+    },
+    {
+      "id": 4,
+      "name": "Sophia Clark",
+      "email": "sophia.clark@example.com",
+      "role": "Admin",
+      "status": false
+    },
+    {
+      "id": 5,
+      "name": "Sophia Clark",
+      "email": "sophia.clark@example.com",
+      "role": "Admin",
+      "status": true
+    },
+    {
+      "id": 6,
+      "name": "kamal",
+      "email": "kamal.fr@example.com",
+      "role": "Admin",
+      "status": true
+    },
+     {
+      "id": 6,
+      "name": "kamal",
+      "email": "kamal.fr@example.com",
+      "role": "Admin",
+      "status": true
+    }
+  ]
+}
